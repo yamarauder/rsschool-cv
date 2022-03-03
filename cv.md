@@ -4,16 +4,20 @@ _Cкажи своему хозяину, что пришел чёрный рыц�
 
 _Потому как ты пишешь код, можно сказать что ты привык рисковать жизнью. (c) Valeriy Hurkov_  
 
-_Здесь жизнь джуниора равна нулю, миром правят привилегированные сословия и мидлы. (c) Valeriy Hurkov_
+_Здесь жизнь джуниора равна нулю, миром правят привилегированные сословия и мидлы. (c) Valeriy Hurkov_  
+
 ***
 
 ### Сontact:
 * _+37529293786_ 
 * _yamarauder@mail.ru_
-* _@yamarauder_
+* _@yamarauder_  
+
+
 ***  
 
-### About:
+### About:  
+
 _Briefly:_ 24 years old, served in the army, single, height 175cm, athletic build.
 
 _Priorities:_ family, friends, self-development. 
@@ -27,7 +31,8 @@ _Completed courses_:   Code Basics Course(HTML, CSS), Stepik ( Веб-разра
 _Languages_: English( Beginner), Russia(native)
   
 
-***
+***  
+
 ### Skills:
 + ` HTML `
 + ` CSS `
@@ -36,18 +41,22 @@ _Languages_: English( Beginner), Russia(native)
   
   
   
-***
+***  
+
 ### Code example:
  
 
     function colourAssociation(array)  {
             return array.map( a => a =  {[a[0]] : a[1]}  );
-    } 
+    }  
+    
+    
 _More examples_: [yamarauder | codewars ](https://www.codewars.com/users/yamarauder)  
 
 
 
 
 
-***
+***  
+
 ___P.S. yamarauder is a reference to J. Rowling's universe.___
