@@ -5,6 +5,8 @@ ___
 >Потому как ты пишешь код, можно сказать что ты привык рисковать жизнью. (c) Valeriy Hurkov
 >
 >Здесь жизнь джуниора равна нулю, миром правят привилегированные сословия и мидлы. (c) Valeriy Hurkov
+>
+
 ___
 ### Сontact:
 * _+37529293786_ 
@@ -24,11 +26,14 @@ _Completed courses_:   Code Basics Course(HTML, CSS), Stepik ( Веб-разра
 
 _Languages_: English( Beginner), Russia(native)
 
+
 ___
 ### Skills:
 + ` HTML `
 + ` CSS `
 +  ` JavaScript `
+
+
 ___
 ### Code example:
  
