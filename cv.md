@@ -34,9 +34,9 @@ _Languages_: English( Beginner), Russia(native)
 ***  
 
 ### Skills:
-+ ` HTML `
-+ ` CSS `
-+  ` JavaScript `  
++  HTML 
++  CSS 
++  JavaScript   
   
   
   
@@ -51,7 +51,7 @@ _Languages_: English( Beginner), Russia(native)
     }  
     
     
-_More examples_: [yamarauder | codewars ](https://www.codewars.com/users/yamarauder)  
+_More examples_: [yamarauder/codewars ](https://www.codewars.com/users/yamarauder)  
 
 
 
